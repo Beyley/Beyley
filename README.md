@@ -1,9 +1,6 @@
 ### hey
 
 
-
-
-
 ### i code i guess
 
 ![VIM](https://img.shields.io/badge/-VIM-%232C3A42?style=flat-square&logo=vim)
