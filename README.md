@@ -1,3 +1,5 @@
+[![Being a solid person](https://github.com/Beyley/Beyley/workflows/Being%20a%20solid%20person/badge.svg)](https://github.com/Beyley/Beyley/actions?query=workflow%3A%22Being+a+solid+person%22)
+
 ### hey
 
 
