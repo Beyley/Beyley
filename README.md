@@ -2,6 +2,7 @@
 
 ### hey
 
+<a rel="me" href="https://fedi.beyleyisnot.moe/@beyley">Mastodon</a>
 
 ### i code i guess
 
