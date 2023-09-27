@@ -21,4 +21,4 @@ Stats:
 
 Langs:
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Beyley&theme=dracula&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Beyley&theme=dracula&layout=compact&exclude_repo=vkd3d,dawn,pspsdk,ppsspp,imgui,zig-gamedev,soloud,SPIRV-Reflect,miniz)
