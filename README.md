@@ -4,9 +4,7 @@
 
 ### i code i guess
 
-🏳️‍⚧️
-
-pTyping: [![ptyping-wakatime](https://wakatime.com/badge/github/Beyley/pTyping.svg)](https://wakatime.com/badge/github/Beyley/pTyping)
+🏳️‍⚧️🏳️‍⚧️🏳️‍⚧️🏳️‍⚧️
 
 [Website](https://beyleyisnot.moe)
 
