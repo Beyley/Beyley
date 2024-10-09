@@ -4,9 +4,7 @@
 
 ### i code i guess
 
-![VIM](https://img.shields.io/badge/-VIM-%232C3A42?style=flat-square&logo=vim)
-![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
-![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
+🏳️‍⚧️
 
 pTyping: [![ptyping-wakatime](https://wakatime.com/badge/github/Beyley/pTyping.svg)](https://wakatime.com/badge/github/Beyley/pTyping)
 
